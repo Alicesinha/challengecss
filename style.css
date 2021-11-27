@@ -1,0 +1,50 @@
+#container{
+    border: 2px solid black ;
+    display: inline-block;
+    width: 700px;
+    background-color: #F941E8;
+    box-sizing: border-box;
+    margin-left: 34%;
+    box-shadow: -19px 19px 30px #F941E8;
+    
+    
+}
+#form{
+    margin: 15px;
+}
+.tittle{
+    display: block;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.input{
+    border: none;
+    outline: 1px solid #4144F9;
+    color:#B939DB;
+    width: 300px;
+    height: 35px;
+}
+span{
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+button{
+    background-color: #A14BF2;
+    cursor: pointer;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+}
+#reset:hover{
+    background-color: #F941E8;
+    color: white;
+    width: 65px;
+    height: 30px;
+}
+#send:hover{
+    background-color: #F941E8;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
